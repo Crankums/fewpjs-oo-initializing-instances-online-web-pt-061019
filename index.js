@@ -8,5 +8,5 @@ class Breakfast {
 }
 
 class Lunch {
-  
+
 }
